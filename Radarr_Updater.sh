@@ -1,3 +1,5 @@
+#!/bin/sh
+
 BASEPATH="/usr/local/share"
 RADARRPATH="${BASEPATH}/radarr"
 VERSIONFILEPATH="${RADARRPATH}/downloadurl.txt"
